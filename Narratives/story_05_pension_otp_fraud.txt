@@ -1,0 +1,8 @@
+Story 05: Pension OTP Fraud
+Fraud Typology: Government Impersonation / OTP Theft
+Victim: Shanta Devi (elderly woman)
+Fraudster: Unknown caller posing as government officer
+
+Shanta Devi was enjoying a quiet afternoon at home when she picked up her phone to check her messages. Among them, one SMS instantly caught her attention. It claimed that her pension had been blocked, urging her to take immediate action. Worried and confused, she stared at the message, hoping it was some mistake. Anxious about her only source of income, Shanta Devi dialed the phone number mentioned in the SMS. The man on the other end introduced himself as a government officer. His voice sounded official, and he seemed to know just what to say to gain her trust. He claimed he could help "verify her account" and restore her pension - but only if she shared the OTP sent to her phone. Trusting his authority, Shanta Devi hesitated for a moment but eventually shared the OTP, believing she was securing her pension. But instead of helping her, the scammers immediately gained access to her account. Within moments, all her savings vanished. Shocked and devastated, Shanta Devi stared at her nearly empty bank balance, unable to understand what had just happened. Later, a local youth from her neighborhood visited her and gently explained that she had been scammed. The message was fake, the caller was a fraudster, and the OTP had allowed them to steal her money. Realizing the truth, Shanta Devi felt heartbroken - but also wiser. From that day onward, she vowed never to share her OTP with anyone.
+
+Key Awareness Message: Government offices never ask for OTP over phone or SMS. Never share OTP with anyone. Always verify such messages by calling the official helpline directly.
