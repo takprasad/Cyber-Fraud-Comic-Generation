@@ -2,8 +2,7 @@
 
 This repository contains the curated fraud narrative dataset and generated comic outputs used in the paper:
 
-> **[Your Paper Title]**
-> [Author Names], [Conference/Journal Name], [Year]
+
 
 ---
 
@@ -32,21 +31,3 @@ Generated 2x4 panel awareness comics for each narrative are provided in the `/ou
 
 ---
 
-## Citation
-
-If you use this dataset in your research, please cite:
-
-```
-@article{yourcitationkey,
-  author    = {Your Names},
-  title     = {Your Paper Title},
-  journal   = {Journal/Conference Name},
-  year      = {2025}
-}
-```
-
----
-
-## License
-
-Narratives are derived from publicly available government cybersecurity awareness materials (I4C, RBI, Cyber Dost) and are made available here for research purposes only.
